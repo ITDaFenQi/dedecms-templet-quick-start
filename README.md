@@ -28,5 +28,5 @@
 
 感谢你的支持，我会更加努力！
 
-<img src="README.assets/%E8%B5%9E%E8%B5%8F%E7%A0%81-IT%E8%BE%BE%E8%8A%AC%E5%A5%87.png" style="zoom: 50%;" />
+<img src="README.assets/%E8%B5%9E%E8%B5%8F%E7%A0%81-IT%E8%BE%BE%E8%8A%AC%E5%A5%87.png" width="480px" />
 
