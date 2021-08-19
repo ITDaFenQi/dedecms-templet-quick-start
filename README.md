@@ -1,5 +1,9 @@
 # DedeCMS v5.7 default 模板中的 tags 的解读和用法
 
+## GitHub 地址
+
+https://github.com/ITDaFenQi/dedecms-templet-quick-start
+
 ## 视频教程
 
 哔哩哔哩：https://space.bilibili.com/453500053

@@ -10,9 +10,17 @@
 
 单标签、成对标签。
 
-`{dede} {dede /}`
+`{dede} {/dede}`
+
+`<div> </div>`
 
 `{dede /}`
+
+`<img />`
+
+双标签，以 `{dede}` 开头，以 `{/dede}` 结尾；
+
+单标签，`{dede /}`；
 
 
 
@@ -100,11 +108,21 @@
 
 手机号码；QQ号码；公司地址...
 
+系统 => 系统系统参数 => 添加新变量
+
 
 
 ## 引其它模板文件
 
-`{dede:include filename="head.htm"/}`
+将网页公用的部分（比如页眉、页脚）给剥离出来，方便开发、维护。
+
+head，foot；
+
+footer，header；
+
+`<header>` `<footer>`
+
+`{dede:include filename="yetou.htm"/}`
 
 引用页眉；
 
@@ -115,6 +133,10 @@
 可以引用任意同一目录下的其它模板文件。比如：
 
 `{dede:include filename="sidebar.htm"/}`
+
+
+
+
 
 
 
